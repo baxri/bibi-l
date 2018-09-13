@@ -30,10 +30,17 @@
             <a id="logo-container" href="#" class="brand-logo">
                 <img src="html.jpg" height="25">
             </a>
-            <ul class="right hide-on-med-and-down">
-                <li><a href="javascrit:void(0)">Mob: +995 598 60 20 84</a></li>
-                <li><a href="javascrit:void(0)">Email: giorgi.bibiashvili89@gmail.com</a></li>
-            </ul>
+
+            <a style="margin-top: 13px !important;" href="https://www.resume.com/share/bibi" target="_blank" id="download-button"
+               class="right btn waves-effect waves-light darken-4">
+                <span class="fa fa-download fa-lg"></span>
+                <span style="margin-left: 5px;">Resume</span>
+            </a>
+
+            {{--<ul class="right hide-on-med-and-down">--}}
+                {{--<li><a href="javascrit:void(0)">Mob: +995 598 60 20 84</a></li>--}}
+                {{--<li><a href="javascrit:void(0)">Email: giorgi.bibiashvili89@gmail.com</a></li>--}}
+            {{--</ul>--}}
         </div>
     </nav>
     @yield('content')
@@ -73,7 +80,8 @@
         </div>
         <div class="footer-copyright">
             <div class="container">
-                Made by <a class="brown-text text-lighten-3" href="https://www.linkedin.com/in/giorgi-bibilashvili-1b620761/">BIBI</a>
+                Made by <a class="brown-text text-lighten-3"
+                           href="https://www.linkedin.com/in/giorgi-bibilashvili-1b620761/">BIBI</a>
             </div>
         </div>
     </footer>
