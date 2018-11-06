@@ -36,7 +36,6 @@
         </div>
         <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
     </div>
-
     <div class="container-fluid" style="background-color: #ffb300; padding: 6px; color: #ffff;">
         <h5 align="center">Check my ranking: <a style="color: #ffff;" href="https://profile.codersrank.io/user/baxri">here</a>
         </h5>
