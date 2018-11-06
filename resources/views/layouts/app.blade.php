@@ -55,8 +55,6 @@
                         But then I guess that finances was not a thing that I was intersted in, I was needed something
                         magical and started codding... thats all, I am codding now :)
                     </p>
-
-
                 </div>
                 <div class="col l3 s12">
                     <h5 class="white-text">Settings</h5>
