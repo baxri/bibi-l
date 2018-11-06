@@ -50,7 +50,7 @@
                         <h5 class="center">Server Side API</h5>
 
                         <p class="light">
-                            PHP (6 years, highly proficient), Node JS, Web Sockets,
+                            PHP (6 years, highly proficient), Web Sockets,
                             Frameworks: Laravel, Symfony, CodeIgniter, Express.
                             Cms: Joomla.
                             Libraries: PHPUnit, Doctrine, Propel, etc; Social services integration: Facebook, Google+,
